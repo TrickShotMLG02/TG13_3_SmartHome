@@ -2,3 +2,7 @@
 	path = Heizungssystem
 	url = https://github.com/TrickShotMLG02/TG13_3_Heizungssystem
 	branch = master
+[submodule "Lichtsteuerung"]
+	path = Lichtsteuerung
+	url = https://github.com/Der-Zauberer/LichtprojektHGS
+	branch = main
